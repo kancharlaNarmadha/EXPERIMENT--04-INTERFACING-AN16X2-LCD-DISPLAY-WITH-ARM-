@@ -226,7 +226,10 @@ void Error_Handler(void)
   ![LIGHT1](https://user-images.githubusercontent.com/119559316/234866500-01d8ea44-046a-401a-ad59-b45931450d14.png)
 
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ## CIRCUIT DIAGR[mic ex4 (1).pdf]
+AM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT
+HERE): 
+![ex4](https://user-images.githubusercontent.com/119559316/235110165-8e02df10-ed83-412a-b2ba-24ddd070d859.jpg)
  
 
  
