@@ -173,6 +173,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+Developed By: KANCHARLA NARMADHA
+Register Number:212222110016
 ```
 #include "main.h"
 #include"lcd.h"
@@ -220,20 +222,14 @@ void Error_Handler(void)
 
 
 
-
-
-
-
-
-
-
 ## Output screen shots of proteus  :
   ![LIGHT1](https://user-images.githubusercontent.com/119559316/234866500-01d8ea44-046a-401a-ad59-b45931450d14.png)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ 
 
-
+ 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified..
 
